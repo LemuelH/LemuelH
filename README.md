@@ -17,8 +17,8 @@ Meu nome é Lemuel e moro no Brasil. Atualmente estou estudando HTML, CSS e Java
 ### Conecte-se comigo
 
 <div>
-<a href="https://www.instagram.com/lemuelhenrique/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" target="_blank" width="40" height="40"></a>
-<a href = "mailto:lemuellhenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/lemuelhenrique/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" target="_blank" width="40" height="40"></a>
+<a href = "mailto:lemuellhenrique@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank" width="40" height="40"></a>
 <a href="https://www.linkedin.com/in/lemuelhenrique/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>   
 </div>
   
