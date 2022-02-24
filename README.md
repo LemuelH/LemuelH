@@ -1,14 +1,5 @@
 ## Lemuel Henrique
 
-### Hello, Devs!!
-Meu nome é Lemuel e moro no Brasil. Atualmente estou estudando HTML, CSS e Javascript. 
-
-
-### Sobre mim
-
-
-
-
 ### Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
