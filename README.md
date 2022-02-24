@@ -23,9 +23,5 @@ Meu nome é Lemuel e moro no Brasil. Atualmente estou estudando HTML, CSS e Java
 </div>
   
 ### Estatísticas
-<div>
-<a href="https://github.com/LemuelH">
-<img height="max-wight: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelH&layout=compact&langs_count=7&theme=dracula"/>
-<img height="max-wight: 100%" src="https://github-readme-stats.vercel.app/api?username=LemuelH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LemuelH)
 
