@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-:books: I’m currently learning everything.
-:house_with_garden: I’m from Brazil.
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:books: I’m currently learning everything. \n
+:house_with_garden: I’m from Brazil. \n
+:outbox_tray: 2022 Goals: create a new project and find a new job. \n
 
 ### About Me
 
