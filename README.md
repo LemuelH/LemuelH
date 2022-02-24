@@ -21,7 +21,7 @@ Meu nome é Lemuel e moro no Brasil. Atualmente estou estudando HTML, CSS e Java
 <a href="https://www.linkedin.com/in/lemuelhenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-###Estatísticas
+### Estatísticas
 <div>
 <a href="https://github.com/LemuelH">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemuelH&layout=compact&langs_count=7&theme=dracula"/>
